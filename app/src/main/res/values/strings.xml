@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">laboratorium_2.1</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="button">Button</string>
+    <string name="login_hint" />
+    <string name="password_hint" />
+</resources>
